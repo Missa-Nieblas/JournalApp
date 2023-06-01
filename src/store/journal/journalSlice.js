@@ -47,5 +47,4 @@ export const {
     setSaving,
     updateNotes,
     deleteNodeById,
-
      } = journalSlice.actions;
